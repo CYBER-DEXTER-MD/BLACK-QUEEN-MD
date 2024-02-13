@@ -1,8 +1,8 @@
 <a href="https://ibb.co/pQNpmwN"><img src="https://telegra.ph/file/e2be563c7bd15666968fb.jpg" alt="Black-queen" border="0"></a>
-<h1 align="center">⭐Black-Queen-Md⭐<br></h1>
+<h1 align="center">🔥BLACK-QUEEN-MD🔥<br></h1>
 
 <p align="center"> 
-  Konochiwa Senpai, I am "Black Queen md " a WhatsApp bot made by Ayush to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
+  Konochiwa Senpai, I am "Black Queen md " a WhatsApp bot made by rukah / dexter to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
 </p>
 </br>
 
@@ -18,7 +18,7 @@
 5. auto react added ✅️
 🔻More features and improvements!
 
--regards Ayush
+-regards Rukah / Dexter
 ```
 </br>
 
@@ -26,7 +26,7 @@
 
 <p align="center">
 
-<a href="https://api.whatsapp.com/send?phone=919931122319&text=𝘩𝘦𝘭𝘭𝘰+𝘮𝘢𝘴𝘵𝘦𝘳"><img src="https://img.shields.io/badge/Contact Ayush-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me//94767533889?text=rukah_💀🔥"><img src="https://img.shields.io/badge/Contact Ayush-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 </p>
 
@@ -35,7 +35,7 @@
 ## ```Bot Support Groups```
 <p align="center">
 
-<a href="https://chat.whatsapp.com/FoS7pSPtfMqBuoireK4aAJ"><img src="https://img.shields.io/badge/Join support group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/FCneKWThUwt0OtyJnup8d8"><img src="https://img.shields.io/badge/Join support group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 </p>
 
@@ -58,21 +58,10 @@
 
 
 
-<a href="https://heroku.com/deploy?template=https://github.com/AYUSH-PANDEY023/Maria-Md">
+<a href="https://heroku.com/deploy?template=https://github.com/CYBER-DEXTER-MD/BLACK-QUEEN-MD">
     <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
     </a>
 
-<br>
-<br>
-<a href="https://railway.app/new"><img src="https://railway.app/button.svg" />
-<br>
-<br>
-  <a href="https://github.com/codespaces/new"><img title="A17 on Gitub Codespace" src="https://img.shields.io/badge/DEPLOY CODESPACE-h?color=black&style=for-the-badge&logo=visualstudiocode" />
-</a>
-  <br>
-<br>
-  <a href="https://studio.mogenius.com/studio/cloud-space/cloud-space-overview"><img title="A17 on Mogenius" src="https://img.shields.io/badge/DEPLOY MOGENIUS-h?color=blue&style=for-the-badge&logo=genius"></a>
-</a>
 
 # Install Manually 👇
 
