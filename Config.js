@@ -2,10 +2,10 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernumber = ['94785274495'] //ඔයගෙ නම්බරෙ✅
-global.ownername = "CYBER-DEXTER-ID"//ඔයගෙ නම✅
-global.ytname = "YT: Fenix_programmer.inc" //don't change❌❌
-global.socialm = "FENIX ID MD" //don't change❌❌
+global.ownernumber = ['94767533889'] //ඔයගෙ නම්බරෙ✅
+global.ownername = "DEXTER-RUKSHAN"//ඔයගෙ නම✅
+global.ytname = "YT: cyber_amda" //don't change❌❌
+global.socialm = "DR ID MD" //don't change❌❌
 global.location = "srilanka" //don't change❌❌
 
 global.botname = '𝐂𝐘𝐁𝐄𝐑-𝐈𝐃-𝐌𝐃' //බොට්ගෙ නම✅
@@ -13,13 +13,13 @@ global.botname = '𝐂𝐘𝐁𝐄𝐑-𝐈𝐃-𝐌𝐃' //බොට්ගෙ �
 //sticker details
 global.stickername = '𝐂𝐘𝐁𝐄𝐑-𝙄𝘿' //ස්ට්කර් නම✅
 global.packname = 'Sticker By'
-global.author = '𝐂𝐘𝐁𝐄𝐑 𝐅𝐔𝐂𝐊' //ස්ට්කර් නම✅
+global.author = '𝐂𝐘𝐁𝐄𝐑 DR' //ස්ට්කර් නම✅
 //console view/theme
 global.themeemoji = '🧩'
-global.wm = "Fenix botz inc." //don't change❌❌
+global.wm = "Dr botz inc." //don't change❌❌
 
 //theme link
-global.link = 'https://chat.whatsapp.com/LQlxjPZLF3JDdWzA3erL88' //don't change❌❌
+global.link = 'https://chat.whatsapp.com/FCneKWThUwt0OtyJnup8d8' //don't change❌❌
 
 //custom prefix
 global.prefa = ['!'] //don't change❌❌
@@ -39,7 +39,7 @@ global.autoread_status = true //auto view status/story
 
 //reply messages
 global.mess = {
-    done: '*FENIX-ID-1999E*', //don't change❌❌
+    done: '*DR-ID-1999E*', //don't change❌❌
     prem: '*This feature can be used by premium user only*',
     admin: '*This feature can be used by admin only*',
     botAdmin: '*This feature can only be used when the bot is a group admin* ',
