@@ -1,8 +1,8 @@
-<a href="https://ibb.co/pQNpmwN"><img src="https://i.ibb.co/xYwQ4Lw/cheemspic.jpg" alt="Maria-Md" border="0"></a>
-<h1 align="center">⭐Maria-Md⭐<br></h1>
+<a href="https://ibb.co/pQNpmwN"><img src="https://telegra.ph/file/e2be563c7bd15666968fb.jpg" alt="Black-queen" border="0"></a>
+<h1 align="center">⭐Black-Queen-Md⭐<br></h1>
 
 <p align="center"> 
-  Konochiwa Senpai, I am "Maria md " a WhatsApp bot made by Ayush to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
+  Konochiwa Senpai, I am "Black Queen md " a WhatsApp bot made by Ayush to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
 </p>
 </br>
 
@@ -42,7 +42,7 @@
 
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [Here](https://github.com/AYUSH-PANDEY023/Maria-Md/fork)
+- FORK THE REPOSITORY [Here](https://github.com/CYBER-DEXTER-MD/BLACK-QUEEN-MD/fork)
 
 
 ## ` Pair with WhatsApp`
@@ -125,9 +125,9 @@ pkg install yarn
 
 pkg install imagemagick -y
 
-git clone https://github.com/AYUSH-PANDEY023/Maria-Md
+git clone https://github.com/CYBER-DEXTER-MD/BLACK-QUEEN-MD
 
-cd Maria-Md
+cd Black-Queen-Md
 
 rm -rf session
 
@@ -149,6 +149,6 @@ npm i -g pm2 && pm2 start  index.js && pm2 save && pm2 logs
 <h1 align="center">  🔮 Thanks To 🔮
 </h1>
 
-* [`🧧Xeon`](https://github.com/dgxeon)
+* [`🧧DEXTER`](https://github.com/dgxeon)
 
-* [`🧧Pikachu`](https://github.com/PikaBotz)
+* [`🧧RUKSHAN`](https://github.com/PikaBotz)
