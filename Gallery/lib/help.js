@@ -6,7 +6,7 @@ const helpmenu=`
 ♡ۣۜۜ፝͜͜͡͡✿➤ *INFO BOT*
   ♡ۣۜۜ፝͜͜͡͡✿➤ Name: BLACK QUEEN BOT
   ♡ۣۜۜ፝͜͜͡͡✿➤ Version: 1.0
-  ♡ۣۜۜ፝͜͜͡͡✿➤ Type: VPS
+  ♡ۣۜۜ፝͜͜͡͡✿➤ Type: BLACK
   ♡ۣۜۜ፝͜͜͡͡✿➤ Owner: DEXTER-RUKA
   ♡ۣۜۜ፝͜͜͡͡✿➤ wa.me/94785274495
   ♡ۣۜۜ፝͜͜͡͡✿➤ Prefix: 「  ${prefix}  」
