@@ -2,12 +2,12 @@ const prefix = global.prefa
   const pushname = m.pushName || "No Name"
 
 const helpmenu=` 
-「 *Fenix id BOT* 」
+「 *DR ID BOT* 」
 ♡ۣۜۜ፝͜͜͡͡✿➤ *INFO BOT*
-  ♡ۣۜۜ፝͜͜͡͡✿➤ Name: Fenix BOT
+  ♡ۣۜۜ፝͜͜͡͡✿➤ Name: BLACK QUEEN BOT
   ♡ۣۜۜ፝͜͜͡͡✿➤ Version: 1.0
   ♡ۣۜۜ፝͜͜͡͡✿➤ Type: VPS
-  ♡ۣۜۜ፝͜͜͡͡✿➤ Owner: Fenix
+  ♡ۣۜۜ፝͜͜͡͡✿➤ Owner: DEXTER-RUKA
   ♡ۣۜۜ፝͜͜͡͡✿➤ wa.me/919931122319
   ♡ۣۜۜ፝͜͜͡͡✿➤ Prefix: 「  ${prefix}  」
  ♡ۣۜۜ፝͜͜͡͡✿➤ Total cmd: 51
